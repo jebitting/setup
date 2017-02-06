@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Just a short bio about me
 
 From Philadelphia
@@ -5,3 +6,5 @@ Learning Cybersecurity
 Coding and really like it!
 
 A real Star Wars Fan!
+=======
+>>>>>>> parent of 0aea14a... updated about me
